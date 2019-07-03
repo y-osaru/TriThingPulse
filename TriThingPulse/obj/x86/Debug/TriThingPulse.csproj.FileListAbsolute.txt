@@ -1,0 +1,9 @@
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\bin\Debug\TriThingPulse.exe.config
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\bin\Debug\script\CalcGridPosition.py
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\bin\Debug\TriThingPulse.exe
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\bin\Debug\TriThingPulse.pdb
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\obj\x86\Debug\TriThingPulse.Form1.resources
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\obj\x86\Debug\TriThingPulse.Properties.Resources.resources
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\obj\x86\Debug\TriThingPulse.csproj.GenerateResource.Cache
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\obj\x86\Debug\TriThingPulse.exe
+C:\Users\140450304\MyGit\tools\2.C#\TriThingPulse\TriThingPulse\obj\x86\Debug\TriThingPulse.pdb
